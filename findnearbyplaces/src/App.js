@@ -1,6 +1,6 @@
 import "./App.css";
-import Login from "./components/login";
-import Places from "./components/places";
+import Login from "../components/login";
+import Places from "../components/places";
 import { HashRouter, Route, Switch } from "react-router-dom";
 
 function App() {
